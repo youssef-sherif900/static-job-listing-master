@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/http//:youssef-sherif900.github.io/static-job-listing-master/static/css/main.0b73ba79.css",
-    "main.js": "/http//:youssef-sherif900.github.io/static-job-listing-master/static/js/main.0957b8eb.js",
-    "static/media/loop-studios.svg": "/http//:youssef-sherif900.github.io/static-job-listing-master/static/media/loop-studios.7778c957c5751d1502cc.svg",
-    "static/media/photosnap.svg": "/http//:youssef-sherif900.github.io/static-job-listing-master/static/media/photosnap.5a867c13a374d62b400f.svg",
-    "static/media/manage.svg": "/http//:youssef-sherif900.github.io/static-job-listing-master/static/media/manage.5a528a9669728fb94c8c.svg",
-    "static/media/insure.svg": "/http//:youssef-sherif900.github.io/static-job-listing-master/static/media/insure.4d535e7e02c25d02b163.svg",
-    "static/media/account.svg": "/http//:youssef-sherif900.github.io/static-job-listing-master/static/media/account.903d6cd02abadf4b4d60.svg",
-    "static/media/eyecam-co.svg": "/http//:youssef-sherif900.github.io/static-job-listing-master/static/media/eyecam-co.0abb14e8a292eed471d5.svg",
-    "static/media/shortly.svg": "/http//:youssef-sherif900.github.io/static-job-listing-master/static/media/shortly.3c01b577742e2648f6f9.svg",
-    "static/media/myhome.svg": "/http//:youssef-sherif900.github.io/static-job-listing-master/static/media/myhome.aaaaa430346f24f652d5.svg",
-    "static/media/the-air-filter-company.svg": "/http//:youssef-sherif900.github.io/static-job-listing-master/static/media/the-air-filter-company.9b55f6443c39f7b79348.svg",
-    "static/media/bg-header-desktop.svg": "/http//:youssef-sherif900.github.io/static-job-listing-master/static/media/bg-header-desktop.752d0faf14c00c6fb55f968b61e827e0.svg",
-    "static/media/faceit.svg": "/http//:youssef-sherif900.github.io/static-job-listing-master/static/media/faceit.54a148ce9e8793ff767e.svg",
-    "index.html": "/http//:youssef-sherif900.github.io/static-job-listing-master/index.html",
-    "static/media/bg-header-mobile.svg": "/http//:youssef-sherif900.github.io/static-job-listing-master/static/media/bg-header-mobile.9b95dfc271742df2163dcd8f7cd11377.svg",
-    "static/media/icon-remove.svg": "/http//:youssef-sherif900.github.io/static-job-listing-master/static/media/icon-remove.70c075ce001e5ccae7c6.svg",
-    "main.0b73ba79.css.map": "/http//:youssef-sherif900.github.io/static-job-listing-master/static/css/main.0b73ba79.css.map",
-    "main.0957b8eb.js.map": "/http//:youssef-sherif900.github.io/static-job-listing-master/static/js/main.0957b8eb.js.map"
+    "main.css": "/static-job-listing-master/static/css/main.0b73ba79.css",
+    "main.js": "/static-job-listing-master/static/js/main.b228bd2b.js",
+    "static/media/loop-studios.svg": "/static-job-listing-master/static/media/loop-studios.7778c957c5751d1502cc.svg",
+    "static/media/photosnap.svg": "/static-job-listing-master/static/media/photosnap.5a867c13a374d62b400f.svg",
+    "static/media/manage.svg": "/static-job-listing-master/static/media/manage.5a528a9669728fb94c8c.svg",
+    "static/media/insure.svg": "/static-job-listing-master/static/media/insure.4d535e7e02c25d02b163.svg",
+    "static/media/account.svg": "/static-job-listing-master/static/media/account.903d6cd02abadf4b4d60.svg",
+    "static/media/eyecam-co.svg": "/static-job-listing-master/static/media/eyecam-co.0abb14e8a292eed471d5.svg",
+    "static/media/shortly.svg": "/static-job-listing-master/static/media/shortly.3c01b577742e2648f6f9.svg",
+    "static/media/myhome.svg": "/static-job-listing-master/static/media/myhome.aaaaa430346f24f652d5.svg",
+    "static/media/the-air-filter-company.svg": "/static-job-listing-master/static/media/the-air-filter-company.9b55f6443c39f7b79348.svg",
+    "static/media/bg-header-desktop.svg": "/static-job-listing-master/static/media/bg-header-desktop.752d0faf14c00c6fb55f968b61e827e0.svg",
+    "static/media/faceit.svg": "/static-job-listing-master/static/media/faceit.54a148ce9e8793ff767e.svg",
+    "index.html": "/static-job-listing-master/index.html",
+    "static/media/bg-header-mobile.svg": "/static-job-listing-master/static/media/bg-header-mobile.9b95dfc271742df2163dcd8f7cd11377.svg",
+    "static/media/icon-remove.svg": "/static-job-listing-master/static/media/icon-remove.70c075ce001e5ccae7c6.svg",
+    "main.0b73ba79.css.map": "/static-job-listing-master/static/css/main.0b73ba79.css.map",
+    "main.b228bd2b.js.map": "/static-job-listing-master/static/js/main.b228bd2b.js.map"
   },
   "entrypoints": [
     "static/css/main.0b73ba79.css",
-    "static/js/main.0957b8eb.js"
+    "static/js/main.b228bd2b.js"
   ]
 }
